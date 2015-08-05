@@ -8,7 +8,10 @@ void get_infos(char* line, char type)
 	char *s_qte;
 	char *convert;
 	int num;
-
+	name = NULL;
+	s_qte = NULL;
+	convert = NULL;
+	
     for (i = 0, c = 0; i < my_strlen(line) && line[i] != ';'; i++)
     {
 	    name = realloc(name, c+1*sizeof(int));
