@@ -1,13 +1,3 @@
-/*
-** splash_screen.c for Ragnarok in /home/mages_i/piscine/C/ragnarok/mages_i/controller
-** 
-** Made by MAGES Igor
-** Login   <mages_i@etna-alternance.net>
-** 
-** Started on  Fri Oct 10 09:53:35 2014 MAGES Igor
-** Last update Fri Nov 14 18:18:00 2014 MAGES Igor
-*/
-
 #include "../game.h"
 
 void	reset()

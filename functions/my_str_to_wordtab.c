@@ -1,13 +1,3 @@
-/*
-** my_str_to_wordtab.c for my_str_to_wordtab in /home/mages_i/piscine/C/jour07/mages_i
-** 
-** Made by MAGES Igor
-** Login   <mages_i@etna-alternance.net>
-** 
-** Started on  Mon Oct  6 10:49:14 2014 MAGES Igor
-** Last update Thu Oct  9 23:03:53 2014 MAGES Igor
-*/
-
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>

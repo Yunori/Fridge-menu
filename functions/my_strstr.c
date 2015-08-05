@@ -1,13 +1,3 @@
-/*
-** my_strstr.c for my_strstr in /home/mages_i/piscine/C/jour_04/mages_i
-** 
-** Made by MAGES Igor
-** Login   <mages_i@etna-alternance.net>
-** 
-** Started on  Thu Oct  2 19:38:55 2014 MAGES Igor
-** Last update Sat Oct  4 19:22:52 2014 MAGES Igor
-*/
-
 #include <stdio.h>
 
 int	my_strncmp(char *s1, char *s2, int n);
