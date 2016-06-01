@@ -55,7 +55,7 @@ void	do_action(char *get)
 
 void	game_over()
 {
-  my_putstr("\n     Powered by mages_i & bertoc_t\n\n\n\n\n");
+  my_putstr("\n     Powered bertoc_t\n\n\n\n\n");
   my_putstr("\e[0m");
   exit(0);
 }
