@@ -1,2 +1,2 @@
-# Fridge-menu
-fridge menu written in C
+# Robot-menu
+Robot menu written in C
